@@ -2,7 +2,7 @@
 
 ---
 
-
+My name is Zuck.
 - 🌱 I'm studying Software Engineering and AI at Centennial College.
 - 🔧 I'm currently learning Spring Boot in Java and LangChain/Graph in Python.
 - 🧑‍🤝‍🧑 I'm open to opportunities in startups/big tech.
